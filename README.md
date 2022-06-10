@@ -1,4 +1,5 @@
 # calculodoimc
-calculadora de imc feita em html css e javascript
+BMI calculator made in html css and javascript
+
 
 link do projeto -----> https://drarthurpts.github.io/calculodoimc/
